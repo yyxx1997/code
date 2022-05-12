@@ -231,5 +231,6 @@ ENV/
 .gv
 .png
 data/
+output/
 
 
