@@ -232,5 +232,5 @@ ENV/
 .png
 data/
 output/
-
-
+temp*
+leetcode/
